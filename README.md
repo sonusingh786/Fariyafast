@@ -18,4 +18,6 @@ cd Fariyafast
 python2 Fariyafast.py
 
 USER: FARIYA
+
+
 PASS: KHAN
